@@ -1,0 +1,15 @@
+.detail{
+    
+    padding: 20px;
+}
+.instruction{
+    text-align: justify;
+}
+.btn-to-fishes{
+    padding: 10px;
+    background-color: rgb(15, 15, 153);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
