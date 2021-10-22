@@ -1,1 +1,1 @@
-LINK : https://react-router-fishdb.netlify.app/fishes
+LINK : https://react-router-fishdb.netlify.app/
